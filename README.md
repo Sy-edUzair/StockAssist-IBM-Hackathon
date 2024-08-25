@@ -85,7 +85,7 @@ To run StockAssist locally, follow these steps:
 ## Usage
 
 1. Open your web browser and navigate to `http://localhost:8501`.
-2. Enter a stock ticker in the input field.
+2. Enter a stock ticker in the input field e.g AAPL for Apple Inc.
 3. View the real-time analysis, strategic recommendations, and visualized data on the dashboard.
 4. Customize your insights by exploring different stock tickers.
 
