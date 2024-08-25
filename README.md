@@ -1,4 +1,3 @@
-# StockAssist-IBM-Hackathon
 
 # StockAssist: A Stock Market Analysis Tool
 ![image](https://github.com/user-attachments/assets/db5b5ddc-bab6-4f66-9665-a1b00a360d69)
