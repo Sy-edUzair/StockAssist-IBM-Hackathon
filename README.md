@@ -20,7 +20,6 @@ Visit here: https://stockassist.streamlit.app/
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Problem Statement
 
