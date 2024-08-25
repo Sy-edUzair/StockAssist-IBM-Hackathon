@@ -13,9 +13,9 @@ load_dotenv()
 # IBM Watson credentials and model setup
 credentials = {
     "url": "https://us-south.ml.cloud.ibm.com",
-    "apikey": "uHcYESg5Mqhv8Mmt_wQKff_ng3b9D2wyqZ1hWbxtV9xE"
+    "apikey": os.getenv("IBM_API_KEY")
 }
-project_id = "0906d776-fcd7-4380-80ef-5ea047f47bb5"
+project_id = os.getenv("IBM_PROJECT_ID")
 
 model_id = ModelTypes.GRANITE_7B_LAB
 parameters = {
